@@ -57,6 +57,7 @@ class App extends Component {
                         eventos={this.state.eventos}
                     />
                 </div>
+                <p className='uk-text-center'><i>Powered by <a href="https://www.eventbriteapi.com">Eventbrite</a></i></p>
             </div>
         );
     }
